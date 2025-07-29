@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    color:white;
+    background-color: #1f2937;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.headertop {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerbody {
+    display: flex;
+}
+
+    
+
+
+.title {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.titlesub {
+font-size: 18px;
+color: #e5e7eb;
+}
+ul {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+    
+}
+button {
+    background-color: #3882f6;
+    color: white;
+    
+}
+.hbright {
+max-height: 250px;
+}
+
+img{
+    max-height: 250px;
+}
