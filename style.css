@@ -74,6 +74,7 @@ button{
     font-weight: 900;
    display: flex;
    justify-content: center;
+   
 }
 
 .boxes{
@@ -82,7 +83,8 @@ button{
     justify-content: space-evenly;
     gap: 10px;
     padding-bottom: 20px;
-    align-items: center
+    align-items: center;
+    
 
 }
 
@@ -133,6 +135,39 @@ max-width: 150px;
 color: darkgray;
 }
 
+.section3 {
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  
+    
+}
+
+.secinfo3{
+    font-size: 28px;
+     font-family: 'light italic', sans-serif;
+     color: #1f2937;
+     padding: 50px;
+     max-width: 700px;
+}
+
+.credits {
+    font-size: 28px;
+     font-family: 'light italic', sans-serif;
+     color: #1f2937;
+     font-weight: 600;
+     align-self: flex-end;
+     padding-bottom: 30px;
+     
+
+}
+
+
+     
+     
+     
 
 
 
