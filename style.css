@@ -80,8 +80,10 @@ button{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+    gap: 10px;
     padding-bottom: 20px;
-    
+    align-items: center
+
 }
 
 
@@ -89,30 +91,47 @@ button{
 
 .b1container {
     border: 5px solid lightblue;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .b2container{
     border: 5px solid lightblue;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .b3container{
     border: 5px solid lightblue;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .b4container{
     border: 5px solid lightblue;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
+}
+
+.boxinfo1 {
+    max-width: 150px;
+    color: darkgray;
+}
+.boxinfo2{
+    max-width: 150px;
+   color: darkgray;
+}
+
+.boxinfo3{
+    max-width: 150px;
+    color: darkgray;
 }
 
 
-
+.boxinfo4{
+max-width: 150px;
+color: darkgray;
+}
 
 
 
