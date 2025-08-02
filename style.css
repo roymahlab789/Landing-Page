@@ -163,19 +163,51 @@ color: darkgray;
      padding-bottom: 40px;
 }
 
+.section4 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-width: 100px
+}
 
+.sec4box {
+    
+    background-color: #3882f6;
+    display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 800px;
+   padding: 40px;
+    
+}
 
-
-
+.s4hs {
+    font-size: 20px;
+    
+}
+.s4btn {
+    border-radius: 3px;
+    border: 3px solid white;
+    width: 120px;
+    height: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
 
 .section5 {
     background-color: #1f2937;
     display: flex;
+    align-items: center;
     justify-content: center;
-    align-items: end;
-    margin-top: 292px
+    color: white;
+    min-height: 123px;
+    
 }
 
-.sectext5 {
-    color: #f9faf8;
-}
+
+
+
+
+
